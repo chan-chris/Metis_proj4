@@ -1,0 +1,16 @@
+**/data
+**/img
+data/
+img/
+docs/
+data/archive/
+data/archive/CBTest
+
+
+data/archive/thisamlife.zip
+data/archive/CBTest.tgz
+data/archive/CBTest/data/cbtest_P_train.txt
+data/archive/CBTest/data/cbtest_CN_train.txt
+data/archive/CBTest/data/cbtest_NE_train.txt
+
+.DS_Store
