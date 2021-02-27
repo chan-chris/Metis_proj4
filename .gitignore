@@ -131,3 +131,6 @@ dmypy.json
 # adding files
 **/data
 **/img
+data/
+img/
+docs/
