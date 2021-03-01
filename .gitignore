@@ -14,3 +14,5 @@ data/archive/CBTest/data/cbtest_CN_train.txt
 data/archive/CBTest/data/cbtest_NE_train.txt
 
 .DS_Store
+
+pgms_archive/
