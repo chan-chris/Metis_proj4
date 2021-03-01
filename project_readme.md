@@ -56,8 +56,13 @@ This analysis was very exploratory in nature therefore programs journey through 
 		. word clouds for pos/neg sentiment<br>
 <br>
 **Summary:**<br>
-The main takeaway of the anlysis is that the character of George Costanza is divided in terms of what brings out strong emotions. For example, dating and relationships bring about the most anger AND joy out of George (literally a love/hate relationship with love). <br>
+<br>
+The final analysis looks at each of George's 10 emotional states/sentiments and then looks at the distribution of the topics within each emotion. The top 10% percent of episodes that contained the highest emotional scores were extracted to create the charts portraying the intersection of emotion and topic. For example, if looking at the emotion "anger", of the 173 episodes I would take the top 15-20 episodes that had the highest "anger" scores. Using this subset of text I would glean which topics were most associated with those episodes.<br>
+<br>
+The main takeaway of the analysis is that the character of George Costanza is divided in terms of what brings out strong emotions. For example, dating and relationships bring about the most anger AND joy out of George (literally a love/hate relationship with love).<br>
 <br>
 It was eye-opening to see that his character increases in Positive sentiment over the seasons whereas his negative sentiment stayed flat. This may not be obvious at first glance but perhaps looking at the later seasons reveal George's more upbeat nature - perhaps (sadly unsuprisingly) after his fiance Susan dies and he is free from commitment. <br>
 <br>
-Another interesting find is that his negative sentiment may largely be related to his family history and/or interactions. We know his relationship with his parents is often portrayed as dysfunctional to say the least. This stands out more having looked at the distributions of each emotion over the 4 topics George's life revolves around.
+Another interesting find is that his negative sentiment may largely be related to his family history and/or interactions. We know his relationship with his parents is often portrayed as dysfunctional to say the least. This stands out more having looked at the distributions of each emotion over the 4 topics George's life revolves around.<br>
+<br>
+Lastly, we compare postive and negative sentiment by looking at word clouds. These reveal some overlap in characters names that could be associated with George's overall sentiment. His mother stands out as a person who brings negative sentiment. Elaine stands out as a person who brings more positive sentiment.
